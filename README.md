@@ -1,5 +1,6 @@
 # primer_repositorio
-##Parte practica del taller
+
+## Parte practica del taller
 
 En esta parte se pondra a prueba todo lo aprendido en el taller
 
